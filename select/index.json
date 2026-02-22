@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "言伝",
+  "base_artist": "Bialystocks",
+  "createdAt": "2026-02-22T15:37:54.919814Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "言伝",
+      "artist": "Bialystocks",
+      "has_synced": false,
+      "path": "select/pl_01_言伝_Bialystocks.txt"
+    }
+  ]
+}
